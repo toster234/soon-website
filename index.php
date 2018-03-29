@@ -1,8 +1,8 @@
 <?php
 require_once __DIR__ . "/config/config.php";
 ?>
-
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
     <meta charset="utf-8" />
     <!-- Please respect the amount of work we've put for free into this project and leave the authors in the header and footer. Thank you. -->
@@ -59,7 +59,7 @@ require_once __DIR__ . "/config/config.php";
                 <ul class="list-inline">
                     <li>
                         <p>
-                            <a href="https://github.com/toster234/soon-website">soon-website</a> v 1.1.2 &mdash; &copy; <a href="https://steamcommunity.com/id/toster234">toster234</a> 2017 - 2018
+                            <a href="https://github.com/toster234/soon-website">soon-website</a> v 1.1.2.1 &mdash; &copy; <a href="https://steamcommunity.com/id/toster234">toster234</a> 2017 - 2018
                         </p>
                     </li>
                 </ul>
