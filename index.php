@@ -7,7 +7,7 @@ require_once __DIR__ . "/config/config.php";
     <meta charset="utf-8" />
     <!-- Please respect the amount of work we've put for free into this project and leave the authors in the header and footer. Thank you. -->
 
-    <meta name="author" content="toster234">
+    <meta name="author" content="toster.dev">
 
     <title>This site is coming soon!</title>
 
@@ -59,7 +59,7 @@ require_once __DIR__ . "/config/config.php";
                 <ul class="list-inline">
                     <li>
                         <p>
-                            <a href="https://github.com/toster234/soon-website">soon-website</a> v 1.1.3 &mdash; &copy; <a href="https://steamcommunity.com/id/toster234">toster234</a> 2017 - 2019
+                            <a href="https://github.com/toster234/soon-website">soon-website</a> v 1.1.3 &mdash; &copy; <a href="https://toster.dev/">toster.dev</a> 2017 - 2019
                         </p>
                     </li>
                 </ul>
