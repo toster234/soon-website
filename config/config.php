@@ -1,6 +1,6 @@
 <?php
 /*
-    Author: toster234
+    Author: toster234 (toster.dev)
 */
 
 
