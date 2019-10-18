@@ -1,7 +1,6 @@
-/* ****** */
-/* FOOTER */
-/* ****** */
-
+/*
+    Author: toster234 (toster.dev) <contact@toster.dev>
+*/
 html {
     height: 100%
 }
@@ -29,6 +28,10 @@ body {
         padding-bottom: 20rem;
     }
 }
+
+/* ****** */
+/* FOOTER */
+/* ****** */
 
 .footer {
     position: absolute;
