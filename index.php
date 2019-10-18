@@ -7,7 +7,7 @@ require_once __DIR__ . "/config/config.php";
     <meta charset="utf-8" />
     <!-- Please respect the amount of work we've put for free into this project and leave the authors in the header and footer. Thank you. -->
 
-    <meta name="author" content="toster.dev">
+    <meta name="author" content="toster.dev <contact@toster.dev>">
 
     <title>This site is coming soon!</title>
 
