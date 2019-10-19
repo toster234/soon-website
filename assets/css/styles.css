@@ -6,3 +6,7 @@
 body{
     background-image:url(../../assets/img/background.jpg)
 }
+
+#parent {
+    height: 100vh
+}
