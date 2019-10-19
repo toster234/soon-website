@@ -3,6 +3,7 @@ Temporary website with information about site construction.
 
 Demo:
 [Click there](https://toster.dev/soon-website/)
+
 Screenshot:
 ![alt text](https://i.imgur.com/a31pImo.png)
 
