@@ -4,7 +4,7 @@ Temporary website with information about site construction.
 Demo:
 [Click there](https://toster.dev/soon-website/)
 
-Screenshot:
+Screenshot(its dev-2.0.1):
 ![alt text](https://i.imgur.com/a31pImo.png)
 
 <p align="center">
