@@ -10,3 +10,7 @@ body{
 #parent {
     height: 100vh
 }
+
+div.jumbotron{
+      box-shadow: 0px 0px 8px 5px rgba(9, 132, 227,1.0);
+}
