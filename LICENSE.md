@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 - 2019 Oliwier "toster234" Thomas ( contact@toster.dev )
+Copyright (c) 2017 - 2020 Oliwier "toster234" Thomas ( contact@toster.dev )
 
 Based on ts-website.
 Permission is hereby granted, free of charge, to any person obtaining a copy
